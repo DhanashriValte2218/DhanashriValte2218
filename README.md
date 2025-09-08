@@ -22,19 +22,19 @@ Eager to contribute to real-world software projects and continuously grow in the
 ---
 
 ## 📂 Projects
-- *🥛 Dairy Delight*  
+#*🥛 Dairy Delight*  
   A web-based system to manage dairy products, tracking, and delivery updates.  
   Tech: HTML, CSS, JavaScript, PHP, MySQL  
   Role: Frontend Developer & Database Management  
   Duration: Dec 2023 – Feb 2024  
 
-- *🎬 Movix*  
+  #*🎬 Movix*  
   A movie browsing platform with search, filter, and sort features using the Open Movie API.  
   Tech: HTML, CSS, JavaScript, React.js  
   Role: Frontend Developer  
   Duration: 2024 – 2025  
 
-  -Memory Game
+#Memory Game
   Tech:java
 ---
 
@@ -61,9 +61,9 @@ Eager to contribute to real-world software projects and continuously grow in the
 ---
 
 ## 🌐 Connect with Me
--https://github.com/DhanashriValte2218
--https://www.linkedin.com/in/dhanashri-valte-867203264?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- ✉ dhanashrivalte22@gmail.com
+github-https://github.com/DhanashriValte2218
+linkdin-https://www.linkedin.com/in/dhanashri-valte-867203264?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+gmail- ✉ dhanashrivalte22@gmail.com
 
 
 
