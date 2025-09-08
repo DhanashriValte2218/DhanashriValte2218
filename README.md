@@ -7,7 +7,7 @@
 ---
 
 ## 👩‍💻 About Me
-Motivated and responsible MCA student with a strong academic background. Skilled in *Java, C++, Python, HTML, CSS, JavaScript, React.js(learning, MySQL, and MongoDB*.  
+Motivated and responsible MCA student with a strong academic background. Skilled in *Java, C++, Python, HTML, CSS, JavaScript, React.js(learning), MySQL, and MongoDB*.  
 Eager to contribute to real-world software projects and continuously grow in the IT field with strong teamwork, leadership, and project management skills.  
 
 ---
@@ -61,11 +61,12 @@ Eager to contribute to real-world software projects and continuously grow in the
 ---
 
 ## 🌐 Connect with Me
-
+-https://github.com/DhanashriValte2218
+-https://www.linkedin.com/in/dhanashri-valte-867203264?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - ✉ dhanashrivalte22@gmail.com
 
 
 
 
-👉 Do you want me to also make a short GitHub bio (2–3 lines) for the small section under your name?
+
 
