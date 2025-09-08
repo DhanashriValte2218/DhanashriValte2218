@@ -1,16 +1,71 @@
-## Hi there 👋
 
-<!--
-**DhanashriValte2218/DhanashriValte2218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi there 👋, I'm Dhanashri Valte  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 MCA (Engg) Student | 🌱 Tech Enthusiast  
+
+---
+
+## 👩‍💻 About Me
+Motivated and responsible MCA student with a strong academic background. Skilled in *Java, C++, Python, HTML, CSS, JavaScript, React.js(learning, MySQL, and MongoDB*.  
+Eager to contribute to real-world software projects and continuously grow in the IT field with strong teamwork, leadership, and project management skills.  
+
+---
+
+## 🔧 Technical Skills
+- *Languages:* Java, C++, JavaScript, Python  
+- *Web Development:* HTML5, CSS3, Bootstrap, React.js (learning)  
+- *Databases:* MySQL, MongoDB  
+- *Frameworks & Libraries:* React.js (in progress)  
+- *Tools:* GitHub, VS Code, NetBeans, IDLE  
+
+---
+
+## 📂 Projects
+- *🥛 Dairy Delight*  
+  A web-based system to manage dairy products, tracking, and delivery updates.  
+  Tech: HTML, CSS, JavaScript, PHP, MySQL  
+  Role: Frontend Developer & Database Management  
+  Duration: Dec 2023 – Feb 2024  
+
+- *🎬 Movix*  
+  A movie browsing platform with search, filter, and sort features using the Open Movie API.  
+  Tech: HTML, CSS, JavaScript, React.js  
+  Role: Frontend Developer  
+  Duration: 2024 – 2025  
+
+  -Memory Game
+  Tech:java
+---
+
+## 💼 Internship
+- *Techocotanet Services Pvt Ltd* – Web Development  
+
+---
+
+## 📜 Certifications
+- Data Analytics (2023)  
+- Web Design (2024)  
+- React.js (2024)  
+- Java Programming (NPTEL, 2024)  
+- Fundamentals of Cybersecurity (2025)  
+
+---
+
+## 🎓 Education
+- *MCA (Engg)* – Gokhale Education Society’s Nashik (SPPU) (2024–2026)  
+  - CGPA: 1st Sem – 9.0, 2nd Sem – 8.2  
+- *B.Sc. Computer Science* – K.T.H.M. College, Nashik (SPPU) (2021–2024)  
+  - CGPA: 8.82  
+
+---
+
+## 🌐 Connect with Me
+
+- ✉ dhanashrivalte22@gmail.com
+
+
+
+
+👉 Do you want me to also make a short GitHub bio (2–3 lines) for the small section under your name?
+
